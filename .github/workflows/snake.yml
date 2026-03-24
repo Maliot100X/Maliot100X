@@ -1,4 +1,4 @@
-name: Generate Snake
+name: generate-snake
 
 on:
   schedule:
@@ -9,24 +9,22 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
+      - name: Generate snake svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Maliot100X
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish generated files to output branch
-        uses: crazy-max/ghaction-github-pages@v5
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          keep_history: false
-          jekyll: false
-          commit_message: 'Generate contribution snake'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
