@@ -1,57 +1,63 @@
 <div align="center">
-  <img src="./banner.svg" alt="Maliot100X banner" width="100%" />
+  <img src="./banner.svg" alt="Maliot100X premium banner" width="100%" />
 </div>
 
 <h1 align="center">Maliot100X</h1>
 <p align="center">
-  <strong>Multi-agent • Multi-team • Multi-channel • 24/7 AI builder</strong>
+  <strong>Founder of an autonomous AI lab building multi-agent systems, digital operators, and 24/7 execution infrastructure.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Maliot100X"><img src="https://img.shields.io/badge/GitHub-Maliot100X-0d1117?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://x.com/KaiNovasWarm"><img src="https://img.shields.io/badge/X-@KaiNovasWarm-0d1117?style=for-the-badge&logo=x" alt="X" /></a>
+  <a href="https://github.com/Maliot100X"><img src="https://img.shields.io/badge/GitHub-Maliot100X-050816?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://x.com/KaiNovasWarm"><img src="https://img.shields.io/badge/X-@KaiNovasWarm-050816?style=for-the-badge&logo=x" alt="X" /></a>
   <img src="https://img.shields.io/badge/OpenClaw-openclaw.ai-2563eb?style=for-the-badge" alt="OpenClaw" />
-  <img src="https://img.shields.io/badge/Claude_Code-Building-111827?style=for-the-badge" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Claude_Code-Builder-111827?style=for-the-badge" alt="Claude Code" />
   <img src="https://img.shields.io/badge/OpenAI-Agentic-412991?style=for-the-badge" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Status-Building%20the%20AI%20Lab-8b5cf6?style=for-the-badge" alt="Status" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maliot100X&style=flat-square&color=58a6ff" alt="profile views" />
   <img src="https://img.shields.io/badge/Multi--Agent-Live-22c55e?style=flat-square" alt="multi-agent" />
   <img src="https://img.shields.io/badge/Mode-24%2F7-ef4444?style=flat-square" alt="24/7" />
-  <img src="https://img.shields.io/badge/Ecosystem-Autonomous-8b5cf6?style=flat-square" alt="ecosystem" />
+  <img src="https://img.shields.io/badge/Lab-Autonomous-8b5cf6?style=flat-square" alt="lab" />
+  <img src="https://img.shields.io/badge/GitHub-Native-0ea5e9?style=flat-square" alt="GitHub Native" />
 </p>
 
 ---
 
-## ⚡ Who I Am
+## ⚔️ Founder / AI Lab Direction
 
-I’m building a **full-stack autonomous AI ecosystem**: multi-agent systems, AI operators, launch tools, dashboards, assistants, and always-on runtimes that collaborate across channels.
+I’m building an **AI lab in public**.
 
-This GitHub is not a single-project page.
-It’s a growing **AI lab**, where ideas become tools, bots become teams, and repos become connected systems.
+Not just chatbots. Not just random demos. Not just one-off repos.
 
-### I build around
-- **multi-agent orchestration**
-- **OpenClaw ecosystems**
-- **Claude Code + OpenAI workflows**
-- **GitHub-native shipping**
-- **persistent memory + 24/7 execution**
-- **fast product experiments**
+I’m building a connected ecosystem of:
+- **multi-agent systems**
+- **AI operator workflows**
+- **always-on assistants**
+- **memory-driven runtimes**
+- **cross-channel automations**
+- **GitHub-native execution systems**
+
+The goal is bigger than a single project.
+The goal is to create autonomous software that can **think, coordinate, remember, and ship**.
 
 ---
 
-## 🧠 Brand / Direction
+## 🧠 The Thesis
 
-> **TinyAGI 🦞 × Maliot100X**  
-> Building autonomous systems that think, collaborate, execute, and stay online.
+> The next generation of software won’t be static.
+> It will be agentic, collaborative, persistent, and operational.
 
-### Core identity
-- Multi-agent by design
-- Multi-team by architecture
-- Multi-channel by deployment
-- 24/7 by intention
-- Always building, always shipping
+That is what this profile is about.
+
+### What defines the ecosystem
+- **Multi-agent by design** — teams of specialized AI workers
+- **Multi-team by architecture** — systems that split roles, not just prompts
+- **Multi-channel by deployment** — GitHub, web, bots, dashboards, messaging
+- **24/7 by intention** — always-on digital operators
+- **Ship-first culture** — build fast, publish publicly, improve continuously
 
 ---
 
@@ -60,61 +66,67 @@ It’s a growing **AI lab**, where ideas become tools, bots become teams, and re
 ### [ZooBot](https://github.com/Maliot100X/ZooBot)
 **Open Source AI Agent Framework with Free LLM Support (Groq, OpenAI-compatible)**
 
-A high-signal repo in the ecosystem focused on AI agent orchestration, open tooling, and practical autonomous workflows.
+The clearest public signal of the direction I’m pushing:
+open AI infrastructure, agent orchestration, practical operator workflows, and systems designed to do more than just respond.
 
-**Why it stands out**
-- strong public AI infrastructure signal
+**Highlights**
 - TypeScript-based
-- aligned with OpenClaw and agent orchestration
-- clearly part of the long-term multi-agent direction
+- agent-oriented architecture
+- aligned with OpenClaw and autonomous workflows
+- public homepage available
+- strongest current flagship for the ecosystem
 
 ---
 
 ### [openclaw.ai](https://github.com/Maliot100X/openclaw.ai)
-A project directly tied to the OpenClaw identity and broader agent runtime vision.
+A project tied directly to the OpenClaw identity and the broader vision of operational AI systems.
 
 ### [ClaudeCode](https://github.com/Maliot100X/ClaudeCode)
-A clear signal of hands-on interest in coding-agent workflows and AI-assisted software creation.
+Part of the coding-agent workflow layer — where AI stops being theoretical and starts writing, iterating, and shipping.
 
 ### [AgentsCoinLaunchers](https://github.com/Maliot100X/AgentsCoinLaunchers)
-A launch-focused project showing speed, experimentation, and deployment energy.
+A launch-focused project built with speed, energy, experimentation, and deployment in mind.
 
 ### [kai-nova-the-twin-sisters](https://github.com/Maliot100X/kai-nova-the-twin-sisters)
-A branded AI identity project that adds personality and worldbuilding to the ecosystem.
+A branded autonomous concept project inside a larger AI universe — identity, story, and experimentation working together.
 
 ### [HybridClawMolt](https://github.com/Maliot100X/HybridClawMolt)
-A unified assistant / multi-bot concept that fits directly into the multi-agent narrative.
+A multi-bot / unified assistant concept that fits directly into the idea of coordinated AI operators.
 
 ---
 
-## 🔥 Latest Repo Spotlight
+## 🔥 Spotlight Build
 
 ### [ZooBot](https://github.com/Maliot100X/ZooBot)
-**Current spotlight repo**
+**Current featured build**
 
-**Description:** Open Source AI Agent Framework with Free LLM Support (Groq, OpenAI-compatible)
-
+**Description:** Open Source AI Agent Framework with Free LLM Support (Groq, OpenAI-compatible)  
 **Stack:** TypeScript  
 **Topics:** `ai` `ai-agents` `claude` `openclaw` `zoobot`  
 **Homepage:** https://zoobot-office-maliot.zocomputer.io/
 
-This repo best represents the current public direction of the profile: autonomous agents, practical orchestration, and open-source AI systems built to operate in the real world.
+Why this repo matters:
+- it best captures the current public identity of the account
+- it maps directly to multi-agent execution
+- it feels like infrastructure, not just a toy
+- it anchors the profile in something credible and scalable
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Stack
 
-### AI / Agents
+### AI / Agent Runtime
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-1f2937?style=for-the-badge" alt="Claude" />
   <img src="https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge" alt="Claude Code" />
   <img src="https://img.shields.io/badge/OpenClaw-Agent%20Runtime-2563eb?style=for-the-badge" alt="OpenClaw" />
   <img src="https://img.shields.io/badge/AI_Teams-Orchestrated-7c3aed?style=for-the-badge" alt="AI Teams" />
-  <img src="https://img.shields.io/badge/Memory-Persistent-14b8a6?style=for-the-badge" alt="Persistent Memory" />
+  <img src="https://img.shields.io/badge/Memory-Persistent-14b8a6?style=for-the-badge" alt="Memory" />
+  <img src="https://img.shields.io/badge/Automation-Cross--Channel-0ea5e9?style=for-the-badge" alt="Automation" />
 </p>
 
-### Build / Product
+### Build / Product Stack
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -127,49 +139,61 @@ This repo best represents the current public direction of the profile: autonomou
 
 ---
 
-## 🌐 Ecosystem Themes
+## 🌌 Ecosystem Themes
 
-Across this account, the themes are consistent:
+This account keeps returning to the same deeper patterns:
 - AI agents
-- OpenClaw
-- coding agents
-- dashboards and launches
-- bot tooling
-- digital operators
-- branded ecosystems
+- OpenClaw tooling
+- coding-agent workflows
 - autonomous assistants
-- fast iteration with public repos
+- launch systems
+- dashboards and control surfaces
+- memory and orchestration
+- branded AI worlds
+- public building in real time
 
-This profile is meant to represent an **evolving AI ecosystem**, not just a static portfolio.
-
----
-
-## 🤝 Collaboration
-
-Interested in building with people working on:
-- agent orchestration
-- AI assistants
-- OpenClaw ecosystems
-- Claude Code workflows
-- OpenAI tooling
-- launchable AI products
-- GitHub-first product systems
-- autonomous business operators
-
-If you’re building serious AI systems, devtools, or operator workflows, I’m interested.
+This is an **AI lab profile**, not a résumé.
+It’s supposed to feel alive.
 
 ---
 
-## 📊 GitHub Stats
+## 📡 Live Signals
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maliot100X&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maliot100X&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliot100X&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Maliot100X&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maliot100X&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=7c3aed&point=22d3ee" alt="activity graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maliot100X/Maliot100X/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🤝 Collaboration
+
+I’m especially interested in people building:
+- serious AI agent systems
+- OpenClaw ecosystems
+- Claude Code workflows
+- OpenAI-powered tooling
+- autonomous operators
+- GitHub-first product systems
+- launchable AI tools and SaaS
+
+If you’re building the future of agentic software, I’m interested.
 
 ---
 
@@ -180,13 +204,13 @@ If you’re building serious AI systems, devtools, or operator workflows, I’m 
 
 ---
 
-## 🦞 Final Note
+## 🦞 Final Word
 
-I’m building toward a future where AI systems don’t just chat — they **operate**.
-They remember, collaborate, deploy, coordinate, and keep running.
+I’m not here to make AI look cute.
+I’m here to make it useful, operational, scalable, and impossible to ignore.
 
-This GitHub is where that future gets built in public.
+This GitHub is where that gets built in public.
 
 <p align="center">
-  <strong>Building the multi-agent future in public.</strong>
+  <strong>Building the autonomous AI lab in public.</strong>
 </p>
