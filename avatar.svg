@@ -1,0 +1,86 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="920" y2="944" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030712"/>
+      <stop offset="0.52" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 250) rotate(40) scale(340 260)">
+      <stop stop-color="#22D3EE" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 760) rotate(-30) scale(330 250)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="210" y1="210" x2="820" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="core" x1="368" y1="300" x2="700" y2="724" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#101826"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .label { font: 700 38px 'Segoe UI', Inter, Arial, sans-serif; letter-spacing: 7px; }
+      .mini { font: 700 21px 'Segoe UI', Inter, Arial, sans-serif; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <rect width="1024" height="1024" rx="240" fill="url(#bg)"/>
+  <rect width="1024" height="1024" rx="240" fill="url(#glow1)"/>
+  <rect width="1024" height="1024" rx="240" fill="url(#glow2)"/>
+
+  <g opacity="0.12">
+    <path d="M120 188H904" stroke="#93C5FD"/>
+    <path d="M120 314H904" stroke="#93C5FD"/>
+    <path d="M120 440H904" stroke="#93C5FD"/>
+    <path d="M120 566H904" stroke="#93C5FD"/>
+    <path d="M120 692H904" stroke="#93C5FD"/>
+    <path d="M120 818H904" stroke="#93C5FD"/>
+    <path d="M188 120V904" stroke="#93C5FD"/>
+    <path d="M314 120V904" stroke="#93C5FD"/>
+    <path d="M440 120V904" stroke="#93C5FD"/>
+    <path d="M566 120V904" stroke="#93C5FD"/>
+    <path d="M692 120V904" stroke="#93C5FD"/>
+    <path d="M818 120V904" stroke="#93C5FD"/>
+  </g>
+
+  <circle cx="512" cy="512" r="286" stroke="url(#ring)" stroke-width="18" opacity="0.95"/>
+  <circle cx="512" cy="512" r="238" fill="url(#core)" stroke="#1e293b" stroke-width="2"/>
+
+  <g filter="url(#soft)">
+    <circle cx="512" cy="470" r="94" fill="#0b1324" stroke="#22D3EE" stroke-width="6"/>
+    <path d="M442 520C466 550 488 566 512 566C536 566 558 550 582 520" stroke="#60A5FA" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="476" cy="462" r="16" fill="#22D3EE"/>
+    <circle cx="548" cy="462" r="16" fill="#A855F7"/>
+    <path d="M430 410L384 368" stroke="#22D3EE" stroke-width="8" stroke-linecap="round"/>
+    <path d="M594 410L640 368" stroke="#A855F7" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#soft)">
+    <circle cx="298" cy="318" r="15" fill="#22D3EE"/>
+    <circle cx="728" cy="280" r="15" fill="#60A5FA"/>
+    <circle cx="770" cy="694" r="15" fill="#A855F7"/>
+    <circle cx="282" cy="744" r="15" fill="#22D3EE"/>
+    <path d="M298 318L430 410" stroke="url(#ring)" stroke-width="4"/>
+    <path d="M594 410L728 280" stroke="url(#ring)" stroke-width="4"/>
+    <path d="M594 618L770 694" stroke="url(#ring)" stroke-width="4"/>
+    <path d="M430 618L282 744" stroke="url(#ring)" stroke-width="4"/>
+  </g>
+
+  <path d="M430 618C460 664 486 696 512 712C538 696 564 664 594 618" stroke="url(#ring)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M392 618H632" stroke="#1d4ed8" stroke-width="6" stroke-linecap="round" opacity="0.65"/>
+
+  <text x="512" y="168" text-anchor="middle" fill="#D1FAFF" class="mini">TINYAGI • FOUNDER LAB • OPENCLAW</text>
+  <text x="512" y="864" text-anchor="middle" fill="#F8FAFC" class="label">M100X</text>
+  <text x="512" y="912" text-anchor="middle" fill="#94A3B8" class="mini">ELITE • CYBER • COSMIC • AGENTIC</text>
+</svg>
